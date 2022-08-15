@@ -15,11 +15,11 @@ Credit: Heavily borrowed from Alex Kerney's [OHW21 exercise](https://github.com/
 
 ```plain
 - [x] Create an issue of tasks to introduce myself
-- [ ] Fork repo
-- [ ] Clone repo to JupyterHub
-- [ ] Add an introduction file for yourself
-- [ ] Push to your fork
-- [ ] Make a pull request
+- [x] Fork repo
+- [x] Clone repo to JupyterHub
+- [x] Add an introduction file for yourself
+- [x] Push to your fork
+- [x] Make a pull request
 - [ ] Review someone else's pull request (and say hello!)
 - [ ] Merge your pull request after it's been reviewed
 - [ ] Add an upstream remote
