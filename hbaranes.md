@@ -1,0 +1,1 @@
+Hello everyone! My name is Hannah Baranes. I'm a postdoc at Gulf of Maine Research Institute, and I study sea level rise and coastal flooding. I'm just sitting in to learn and observe this week, and I'm a big mint chocolate chip ice cream enthusiast. 
